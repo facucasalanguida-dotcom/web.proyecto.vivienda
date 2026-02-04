@@ -1,8 +1,1 @@
-streamlit
-pandas
-numpy
-folium
-streamlit-folium
-statsmodels
-scipy
-scickit-learn
+
